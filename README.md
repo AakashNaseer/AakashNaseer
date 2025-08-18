@@ -1,3 +1,4 @@
+![logo](https://github.com/AakashNaseer/AakashNaseer/blob/main/Blue%20and%20Green%20Simple%20Software%20Engineer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aakash Naseer</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
